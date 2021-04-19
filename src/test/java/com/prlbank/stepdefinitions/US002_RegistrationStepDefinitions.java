@@ -29,6 +29,7 @@ public class US002_RegistrationStepDefinitions {
         prlHomePage.registerButton.click();
     }
 
+
     @When("user clicks on SSN text box and provide an SSN number")
     public void user_clicks_on_ssn_text_box_and_provide_an_ssn_number() {
         prlRegistrationPage.SSNTextBox.sendKeys("676-08-9442");
