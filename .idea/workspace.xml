@@ -3,14 +3,44 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7f296ad4-e1a2-49df-a7c8-7ad4694d1d83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prlbank/utilities/PDFGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prlbank/utilities/ReadTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prlbank/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/prlbank/utilities/WriteToTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/pdfgenerator.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,8 +61,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,5 +75,27 @@
       <updated>1618800524926</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="25" width="1021" height="813" key="SettingsEditor" timestamp="1618852189378">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="356" y="25" width="1021" height="813" key="SettingsEditor/0.25.1440.813@0.25.1440.813" timestamp="1618850623582" />
+    <state x="502" y="25" width="913" height="814" key="SettingsEditor/0.25.1440.814@0.25.1440.814" timestamp="1618852189378" />
+    <state x="362" y="25" width="838" height="1032" key="search.everywhere.popup" timestamp="1618852609623">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="362" y="25" width="838" height="1032" key="search.everywhere.popup/0.25.1440.814@0.25.1440.814" timestamp="1618852609623" />
   </component>
 </project>
